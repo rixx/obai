@@ -1,6 +1,9 @@
 # Obai-Brause
 
+
 Koffein. Zucker. Fizz. Zum Selbermischen. Was will man mehr?
+
+**BRECHEND:** Jetzt mit [Zutatenrechner](http://obai.cutebit.de).
 
 Als damals Ohai-Brause die Produktion einstellen musste, und unsere Vorräte im [shackspace](http://shackspace.de) sich dem Ende neigten, beschlossen wir, allen voran [hdznrrd](https://github.com/hdznrrd): Das können wir auch selber. Nach etwas Recherche folgte dann ein [Workshop](http://www.shackspace.de/wiki/doku.php?id=project:obai_brause) mit viel Probiererei und Diskussion, der letztlich zu unserem Obai-Rezept (liegt unter `recipes/obai.md`) führte.
 
@@ -15,6 +18,8 @@ Bevor ihr selber rumexperimentiert, recherchiert selber und lest auch die `safet
 # Obai Sherbet
 
 Caffeine. Sugar. Fizz. DIY. What else do you need?
+
+**BREAKING**: Now with a [calculator](http://obai.cutebit.de).
 
 When Ohai sherbet had to (temporarily) stop their production of wonderful, yummy caffeine sherbet powder, and [we](http://shackspace.de) were running dry, we (we being primarily [hdznrrd](https://github.com/hdznrrd) thought: What the heck, we can do this ourselves. After some research (like, how is the LD50 of caffeine for humans _something_ between 1.5g and 4g? This seems like an important difference, y'know!) we did a [workshop](http://www.shackspace.de/wiki/doku.php?id=project:obai_brause) and worked out a recipe (look at it at `recipes/obai.md`).
 
