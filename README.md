@@ -21,7 +21,7 @@ Caffeine. Sugar. Fizz. DIY. What else do you need?
 
 **BREAKING**: Now with a [calculator](http://obai.cutebit.de).
 
-When Ohai sherbet had to (temporarily) stop their production of wonderful, yummy caffeine sherbet powder, and [we](http://shackspace.de) were running dry, we (we being primarily [hdznrrd](https://github.com/hdznrrd) thought: What the heck, we can do this ourselves. After some research (like, how is the LD50 of caffeine for humans _something_ between 1.5g and 4g? This seems like an important difference, y'know!) we did a [workshop](http://www.shackspace.de/wiki/doku.php?id=project:obai_brause) and worked out a recipe (look at it at `recipes/obai.md`).
+When Ohai sherbet had to (temporarily) stop their production of wonderful, yummy caffeine sherbet powder, and [we](http://shackspace.de) were running dry, we (we being primarily [hdznrrd](https://github.com/hdznrrd)) thought: What the heck, we can do this ourselves. After some research (like, how is the LD50 of caffeine for humans _something_ between 1.5g and 4g? This seems like an important difference, y'know!) we did a [workshop](http://www.shackspace.de/wiki/doku.php?id=project:obai_brause) and worked out a recipe (look at it at `recipes/obai.md`).
 
 If you want to see the old versions of the recipe, check out versions v1.0, v2.0 etc of this repo. :)
 
